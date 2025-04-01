@@ -60,3 +60,15 @@ node_modules
 pnpm-global
 TODOs.md
 *.timestamp-*.mjs
+
+# Python
+.venv/
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Personal data
+resume.json
