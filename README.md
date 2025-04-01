@@ -1,3 +1,5 @@
+# LaTeX CV and Resume Collection
+
 <h1 align="center">
   <img alt="latexcv icon" src="./logo.svg" height="300px" />
   <br />
@@ -23,6 +25,10 @@
 Now with support for Chinese, Japanese and Korean character encoding. Setup is only two lines of code! Read more <a href="docs/cjk/README.md">here</a>.
 </p>	
 <br />
+
+## Features
+
+- **Template Processor**: A JSON-to-LaTeX converter that allows you to maintain your CV data in JSON format and generate LaTeX documents automatically. See the [template processor documentation](template_processor/README.md) for details.
 
 <div align="center">
 <table width="100%" margin-left="auto" margin-right="auto">
